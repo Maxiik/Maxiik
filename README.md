@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maxiik
-- 👀 I’m interested in reverse engineering
-- 🌱 I’m currently learning X64 Assembly
+- 👀 I’m interested in reverse engineering, compiler development and more.
+- 🌱 I’m currently studying Comp.Sci at Charles University.
 
 
 <!---
